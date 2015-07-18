@@ -9,7 +9,11 @@ markdown: kramdown
 title:               ssexess
 tagline:             'Palindromische Universalitäten'
 description:         'Im Rausch der Sinne'
-url:                 http://ssexess.com
+#url:                 http://asommer.github.io/
+ssxss2:
+  siteurl: "http://asommer.github.io/"
+  media: 'assets/img'
+
 baseurl:             '/ssxss2'
 paginate:            1
 
