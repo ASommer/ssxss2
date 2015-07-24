@@ -23,13 +23,13 @@ layout: default
           {% assign nextpageurl = pages_list[nextpage].url %}
 
           {% if previouspage != null %}
-          <a href="{{ prevpageurl }}" class="btn"> Zurück </a>
+          <a href="{{ relative-baseurl }}{{ prevpageurl }}" class="btn"> Zurück </a>
           {% endif %}
 
           {{ currentpage }}
 
           {% if forloop.rindex > 1 %}
-          <a href="{{ nextpageurl }}"> Vor </a>
+          <a href="{{ nextpageurl }}" class="btn"> Vor </a>
           {% endif %}
 
         {% endif %}
