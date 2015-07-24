@@ -3,7 +3,8 @@ layout: page
 title: Fotografie
 pagenr: 8
 ---
-![Schlange]({{ site.baseurl }}/assets/img/schlange.jpg)
+![Schlange2]({{ site.baseurl }}/assets/img/schlange.jpg)
+
 
 Die Geschichte der Fotografie ist auch die Geschichte der Befriedigung des Bedürfnisses nach dem Festhalten der Zeit. Der Wunsch, Augenblicke der verklärten Verzückung festzuhalten, erfüllte sich mit der Entwicklung der Fotografie. Die Lichtempfindlichkeit von Silberkristallen wurde ca. 100 Jahre vor der Geburtsstunde der Fotografie entdeckt. Es war also bereits um 1740 möglich ein projiziertes Bild auf einer lichtempfindlichen Emulsion als Abbild zu zeigen. Da der Schwärzungsprozess jedoch nicht gestoppt, also weil das Bild nicht fixiert werden konnte, glich die Fotografie eher einem Verlangsamen des Augenblicks als dem Festhalten eines Momentes.
 
