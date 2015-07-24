@@ -23,7 +23,7 @@ layout: default
           {% assign nextpageurl = pages_list[nextpage].url %}
 
           {% if previouspage != null %}
-          <a href="{{ prevpageurl }}" class="btn"> Zurück </a>
+          <a href="{{ relative-baseurl }}{{ prevpageurl }}" class="btn"> Zurück </a>
           {% endif %}
 
           {{ currentpage }}
